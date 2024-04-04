@@ -1,4 +1,4 @@
-# basicMetrics-js
+# Basic Metrics
 
 Live Server Settings:
 
